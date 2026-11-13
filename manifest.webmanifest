@@ -1,0 +1,16 @@
+{
+  "name": "Easy Ticket - Mahaveer Travels",
+  "short_name": "Easy Ticket",
+  "description": "Mahaveer Travels Vidisha - Vidisha to Indore AC Seater Deluxe Bus Ticket Booking",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#ea580c",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
